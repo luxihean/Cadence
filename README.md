@@ -4,4 +4,5 @@ In this series, I will talk about Cadence, simulate analog circuits using Virtuo
 This series includes the following blog posts:
 
 1、A Cadence Life from Scratch ，Introduction to Installing Cadence and Integrating Calibre on Ubuntu 20.04
+
 2、How to load a process library in Cadence and simulate an NMOS's Ids-Vds characteristic curve along with its port capacitance:
