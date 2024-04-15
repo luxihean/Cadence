@@ -1,4 +1,4 @@
-﻿@[TOC](Cadence学习笔记之Ubuntu20.04双系统安装IC617，Calibre2019及常见问题一览
+﻿Cadence学习笔记之Ubuntu20.04双系统安装IC617，Calibre2019及常见问题一览
 
 # 引言
 
