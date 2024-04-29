@@ -176,7 +176,7 @@ sudo ./iscape.sh	#启动IScape安装界面
 本文安装的为calibre2019，我们需要将下载的calibre2019包进行解压，解压后i面有且仅有一个aoj_cal_2019.3_15.11_mib.exe文件，我们将这个文件复制到/opt/mentor/Calibre2019文件夹下，同时在该文件夹下右击，打开终端，在该路径下输入命令：
 
 ```
-sudo ./aoi_cal_2015.2_36.27_mib.exe
+sudo ./aoi_cal_2019.3_15.11_mib.exe
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/b05e22e8e91843789c7b3fbfe0bfb12d.png)
 输入D ENTER
